@@ -109,3 +109,6 @@ ENV/
 # Directories used by tools like pytest and isort
 /.cache/
 /.pytest_cache/
+
+
+o365_token.txt
